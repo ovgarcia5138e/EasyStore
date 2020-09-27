@@ -1,0 +1,6 @@
+framework module Pods_EasyStore {
+  umbrella header "Pods-EasyStore-umbrella.h"
+
+  export *
+  module * { export * }
+}
